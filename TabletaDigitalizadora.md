@@ -23,7 +23,7 @@ Algunas tabletas digitalizadoras están diseñadas para ser utilizadas reemplaza
 
 ![alt text][Tabif]
 
-[Tabif]: https://github.com/Robertostrikers/Tableta-digitalizadora.md
+[Tabif]: https://github.com/Robertostrikers/Tableta-digitalizadora.md/blob/master/koalapad.png
 
 
 ## Tabletas pasivas **
