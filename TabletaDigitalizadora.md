@@ -6,12 +6,16 @@ Consiste en una superficie plana sobre la que el usuario puede dibujar una image
 La imagen no aparece en la tableta sino que se muestra en la pantalla de la computadora. 
 Algunas tabletas digitalizadoras están diseñadas para ser utilizadas reemplazando al ratón como el dispositivo apuntador principal.
 
+![alt text][Tab]
+
+[logo]: https://github.com/Robertostrikers/Tableta-digitalizadora.md/blob/master/tab.png
+
 
 ## Primeras tabletas Digitalizadoras
 
 1. Stylus (1957).-  ** La primera tableta gráfica parecida a la tableta contemporánea y usada para el reconocimiento de escritura a mano por un ordenador
 
-2.-  KoalaPad.- ** La primera tableta gráfica de uso en el hogar, originalmente diseñada para el Apple II,  la Koala eventualmente amplió su aplicabilidad a prácticamente todas las computadoras domésticas con soporte de gráficos, ejemplos los cuales incluyen el TRS-80 Color Computer, Commodore 64 y la familia Atari-8 bit. 
+2.  KoalaPad.- ** La primera tableta gráfica de uso en el hogar, originalmente diseñada para el Apple II,  la Koala eventualmente amplió su aplicabilidad a prácticamente todas las computadoras domésticas con soporte de gráficos, ejemplos los cuales incluyen el TRS-80 Color Computer, Commodore 64 y la familia Atari-8 bit. 
 
 
 ## Tabletas pasivas **
