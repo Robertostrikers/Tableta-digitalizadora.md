@@ -8,7 +8,7 @@ Algunas tabletas digitalizadoras están diseñadas para ser utilizadas reemplaza
 
 ![alt text][Tab]
 
-[logo]: https://github.com/Robertostrikers/Tableta-digitalizadora.md/blob/master/tab.png
+[Tab]: https://github.com/Robertostrikers/Tableta-digitalizadora.md/blob/master/tab.png
 
 
 ## Primeras tabletas Digitalizadoras
