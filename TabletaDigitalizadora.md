@@ -26,7 +26,7 @@ Algunas tabletas digitalizadoras están diseñadas para ser utilizadas reemplaza
 [Tabif]: https://github.com/Robertostrikers/Tableta-digitalizadora.md/blob/master/koalapad.png
 
 
-## Tabletas pasivas **
+## *Tabletas pasivas*
 
 La tableta digitalizadora genera una señal electromagnética, que es recibida por el circuito resonante que se encuentra en el lápiz. 
 Cuando la tableta cambia a modo de recepción, lee la señal generada por el lapicero; esta información, además de las coordenadas en que se encuentra puede incluir información sobre la presión, botones en el lápiz o el ángulo en algunas tabletas. 
@@ -35,7 +35,7 @@ Usando la señal electromagnética, la tableta puede localizar la posición del 
 El lapicero no se alimenta con pilas sino que la energía se la suministra la rejilla de la tableta por el acoplamiento de la resonancia. 
 Esta tecnología está patentada por la empresa Wacom, que no permite que los competidores la utilicen.
 
-## ** Tabletas activas **
+## *Tabletas activas*
 
 Las tabletas activas se diferencian de las anteriores en que el estilete contiene una batería o pila en su interior que genera y transmite la señal a la tableta. Por lo tanto son más grandes y pesan más que los anteriores. Por otra parte, eliminando la necesidad de alimentar al lápiz, la tableta puede escuchar la señal del lápiz constantemente, sin tener que alternar entre modo de recepción y transmisión constantemente, lo que conlleva un menor jitter.
 
